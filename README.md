@@ -6,10 +6,15 @@
 * Kerim Šljivo
 ## Opis teme
 Potrebna Vam je vožnja, a ne želite da gubite vrijeme čekajući taksi na kiši, snijegu ili suncu i uz to se pitate kada i da li će doći?
+
 A->B Taxi je tu da Vam omogući jednostavno i brzo naručivanje vožnje bez obzira na mjesto gdje se nalazite i bez čekanja na ulici koje zna da traje predugo.
+
 Cilj aplikacije je omogućavanje efikasnijeg, pouzdanijeg i povoljnijeg prevoza klijenata tako što nudi direktan kontakt između klijenta i vozača te na taj način zaobilazi probleme i komplikacije koji se mogu pojaviti pri naručivanju vožnje uz posredstvo dispečera.
+
 A->B Taxi pronalazi najbolje pozicionirane vozače u odnosu na lokaciju klijenta te istovremeno omogućava vozačima da ponude vrijeme čekanja bez obzira da li u datom momentu imaju klijenta/e ili ne i na taj način smanji troškove taksi kompanije, kao i vrijeme čekanja klijenta. Klijent zadržava pravo prihvatanja i odbijanja ponude za vožnju te bira ponudu koja najbolje odgovara ličnim preferencijama kroz mogućnost uvida u profil koji sadrži sve informacije relevantne za vozača.
+
 Pored pogodnosti za klijente, uz samo par dodira ekrana imate mogućnost da se registrujete kao vozač i uz fleksibilan raspored ispunite svoje profesionalne ciljeve.
+
 Prevoz od tačke A do tačke B zaista zvuči jednostavno, a za Vas postoji A->B Taxi kako biste se uvjerili da ono što zvuči jednostavno može biti jednostavno i u praksi.
 ## Funkcionalnosti
 *	Registracija klijenta
