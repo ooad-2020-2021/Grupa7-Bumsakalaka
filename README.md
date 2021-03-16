@@ -1,5 +1,5 @@
 # Grupa7-Bumsakalaka
-## Tema: e-Taxi
+## Tema: A->B Taxi
 ## Članovi tima:
 * Demir Tokalić
 * Eman Duvnjak
