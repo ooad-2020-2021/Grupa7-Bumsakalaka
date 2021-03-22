@@ -34,5 +34,3 @@ Prevoz od tačke A do tačke B zaista zvuči jednostavno, a za Vas postoji A->B 
 * Mušterije
 * Vozači
 * Administrator
-*	Mogućnost kreiranja izvještaja za vozače uz sortiranje po raznim kriterijima
-*	Mogućnost ostvarivanja pogodnosti za različite društvene kategorije
