@@ -23,7 +23,7 @@ Prevoz od tačke A do tačke B zaista zvuči jednostavno, a za Vas postoji A->B 
 *	Naručivanje vožnje
 *	Mogućnost ocjenjivanja kvaliteta vožnje/vozača
 *	Mogućnost pregleda profila vozača pri procesu prihvatanja vožnje
-*	Mogućnost otkazivanja vožnje nakon isteka predviđenog vremena čekanja
+*	Automatsko slanje notifikacije i mogućnost otkazivanja vožnje od strane klijenta nakon isteka predviđenog vremena čekanja
 *	Mogucnost slanja notifikacije pri dolasku taksija na dogovorenu adresu
 *	Blokiranje i brisanje profila vozača od strane admina
 *	Blokiranje i brisanje profila klijenta od strane admina
