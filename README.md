@@ -32,6 +32,6 @@ Prevoz od tačke A do tačke B zaista zvuči jednostavno, a za Vas postoji A->B 
 *	Mogućnost ostvarivanja pogodnosti za stalne korisnike
 ## Akteri
 * Neregistrovani korisnik
-* Mušterija
+* Klijent
 * Vozač
 * Administrator
